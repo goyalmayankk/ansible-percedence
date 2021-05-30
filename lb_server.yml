@@ -1,0 +1,6 @@
+- hosts: lb_servers
+  gather_facts: false
+  tasks:
+    - name: "variable"
+      debug:
+        msg: "{{ group }}"

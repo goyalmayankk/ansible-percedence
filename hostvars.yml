@@ -1,0 +1,6 @@
+- hosts: hp-bl460cg8-2.gsslab.rdu2.redhat.com
+  gather_facts: false
+  tasks:
+    - name: "execute host vars"
+      debug:
+        msg: "{{ group }}"

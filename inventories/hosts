@@ -1,0 +1,8 @@
+[lb_servers]
+hp-bl460cg8-2.gsslab.rdu2.redhat.com
+[server1]
+sun-x4170m2-1.gsslab.rdu2.redhat.com
+[server2]
+hp-dl380pg8-5.gsslab.rdu2.redhat.com
+[server3]
+sun-x4-2l-1.gsslab.rdu2.redhat.com
